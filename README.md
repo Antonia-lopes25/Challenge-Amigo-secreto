@@ -26,6 +26,6 @@ git clone https://github.com/seu-usuario/amigo-secreto.git
 
 Acesse a pasta do projeto:
 
-cd amigo-secreto
+Desafio-Amigo-secreto
 
 Abra o arquivo index.html no navegador.
